@@ -3,8 +3,8 @@ package com.master;
 public class MasterFile {
   
  public static void main(String[] args) {
-		System.out.println("Master File Added from Git in feature branch which is specific for a feature!");
-
+	 // Make sure that your branch name is updated here
+		System.out.println("Master File Added from Git in develop branch which is main");
 	}
 
 }
